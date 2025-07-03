@@ -1,0 +1,16 @@
+datasets
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+transformers
+torch
+xgboost
+lightgbm
+humanize
+plotly
+wordcloud
+imbalanced-learn
+joblib
+nbformat
